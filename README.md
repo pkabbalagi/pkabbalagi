@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <img align="right"alt="Coding"width="400"src="https://th.bing.com/th/id/OIP.YE-uRCE8HJCsKCNXUiQ2pAHaFj?w=222&h=180&c=7&r=0&o=5&pid=1.7">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanka&label=Profile%20views&color=0e75b6&style=flat" alt="priyanka" /> </p>
 
-- 🌱 I’m currently learning **Computer Science(IOT,Cybersecurity, including Blockchain)n**
+- 🌱 I’m currently learning **Computer Science(IOT,Cybersecurity, including Blockchain)
 
 - 📫 How to reach me **manjunathkabbalagi2@gmail.com**
 
