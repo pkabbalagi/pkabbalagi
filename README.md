@@ -1,39 +1,28 @@
-<!-- Top Banner (your original image) -->
+<h1 align="left">Hi there 👋</h1>
+
+<!-- Banner -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/90336653/232446433-d5540fa2-f28a-4bb8-b929-cdb51fc61336.gif" />
 </p>
 
-<h1 align="center">Hi there 👋</h1>
-
 <h2 align="center">Hi 👋, I'm Priyanka</h2>
 <h3 align="center">A passionate frontend developer from India</h3>
 
----
-
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=pkabbalagi&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## 🚀 About Me
-
-<img align="right" alt="coding" width="300"
-src="https://media.licdn.com/dms/image/D4D12AQFh0Lx9P-Ev7A/article-cover_image-shrink_720_1280/0/1670231488000?e=2147483647&v=beta&t=5idP_YE-WCE0SHCkSDXUuIQ2pAHafj7h_222kh-18d0" />
-
-- 🌱 I’m currently learning **Computer Science (IoT, Cybersecurity, Blockchain)**
-- 💻 Interested in **Frontend Development**
-- 🔧 Building projects like **Weather App**
-- 🎯 Goal: Become a **Full Stack Developer**
+<ul>
+<li>🌱 I'm currently learning <b>Computer Science (IoT, Cybersecurity, including Blockchain)</b></li>
+<li>📫 How to reach me <b>manjunathkabbalagi2@gmail.com</b></li>
+</ul>
 
 ---
 
-## 📫 Contact Me
-- 📧 **manjunathkabbalagi2@gmail.com**
+<h3 align="left">Connect with me:</h3>
 
----
-
-## 🔗 Connect with Me
 <p align="left">
 <a href="https://linkedin.com/in/priyanka-k" target="blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin-alt.svg" height="30" width="40" />
@@ -46,41 +35,28 @@ src="https://media.licdn.com/dms/image/D4D12AQFh0Lx9P-Ev7A/article-cover_image-s
 
 ---
 
-## 🛠️ Languages and Tools
+<h3 align="left">Languages and Tools:</h3>
+
 <p align="left">
 <a href="https://www.cprogramming.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
 </a>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
 </p>
 
 ---
 
-## 🌟 Featured Project
-
-### 🌦️ Weather App
-- Built using HTML, CSS, JavaScript  
-- Fetches real-time weather data using API  
-- Displays temperature, humidity, wind speed  
-
-🔗 https://github.com/your-username/weather-app
+<!-- Coding Girl Image (RIGHT SIDE) -->
+<p align="right">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300"/>
+</p>
 
 ---
 
-## 📊 GitHub Stats
-
+<!-- GitHub Stats -->
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=pkabbalagi&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pkabbalagi&show_icons=true&locale=en" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pkabbalagi&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pkabbalagi" />
 </p>
-
----
-
-## 💡 Fun Fact
-✨ I enjoy turning ideas into real-world applications
