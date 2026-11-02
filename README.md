@@ -1,9 +1,18 @@
 <h1 align="center">Hi 👋, I'm Priyanka M K</h1>
+
 <p align="center">
-[<img src="https://img.shields.io/badge/GitHub-102216?style=for-the-badge&logo=github&logoColor=11d452"/>](https://github.com/pkabbalagi)
-[<img src="https://img.shields.io/badge/LinkedIn-102216?style=for-the-badge&logo=linkedin&logoColor=11d452"/>](https://linkedin.com/in/https://www.linkedin.com/in/priyanka-manjunath-kabbalagi/)
-[<img src="https://img.shields.io/badge/Email-102216?style=for-the-badge&logo=gmail&logoColor=11d452"/>](mailto:manjunathkabbalagi2@gmail.com)
-[<img src="https://img.shields.io/badge/YouTube-102216?style=for-the-badge&logo=youtube&logoColor=11d452"/>](https://youtube.com/@manjunathkabbalagi2561)
+  <a href="https://github.com/pkabbalagi">
+    <img src="https://img.shields.io/badge/GitHub-102216?style=for-the-badge&logo=github&logoColor=11d452" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/priyanka-manjunath-kabbalagi/">
+    <img src="https://img.shields.io/badge/LinkedIn-102216?style=for-the-badge&logo=linkedin&logoColor=11d452" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:manjunathkabbalagi2@gmail.com">
+    <img src="https://img.shields.io/badge/Email-102216?style=for-the-badge&logo=gmail&logoColor=11d452" alt="Email"/>
+  </a>
+  <a href="https://www.youtube.com/@manjunathkabbalagi2561">
+    <img src="https://img.shields.io/badge/YouTube-102216?style=for-the-badge&logo=youtube&logoColor=11d452" alt="YouTube"/>
+  </a>
 </p>
 
 <hr/>
@@ -44,6 +53,3 @@
 <p align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pkabbalagi&bg_color=102216&color=11d452&line=11d452&point=11d452&area=true&hide_border=true" alt="Activity Graph" />
 </p>
-
----
-Built with [GPRM](https://gprm.bhalli.dev)
